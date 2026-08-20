@@ -12,7 +12,6 @@ Most of my active coding and open-source work lives in [nmorgowicz-org](https://
 | --- | --- |
 | [Local LLM Foundry](https://github.com/nmorgowicz-org/local-llm-foundry) | Local inference tooling and model workflows |
 | [Persona Forge](https://github.com/nmorgowicz-org/persona-forge) | Persona and agent-workflow tooling |
-| [Iris Branding](https://github.com/nmorgowicz-org/iris-branding) | Branding and presentation work |
 
 This personal account is also where upstream contributions, forks, and pull requests may appear. For the current project directory and organization-wide activity, start at [github.com/nmorgowicz-org](https://github.com/nmorgowicz-org).
 
